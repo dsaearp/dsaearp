@@ -10,7 +10,7 @@
 
 <br>
 
-<div>
+<div style="display: inline_block"><br>
   <a href="https://github.com/dsaearp">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=dsaearp&count_private=true&show_icons=true&theme=transparent">
   <img height="180cm" src="https://github-readme-stats2-lyart.vercel.app/api/top-langs/?username=dsaearp&hide=html&layout=compact&langs_count=5&theme=transparent">
